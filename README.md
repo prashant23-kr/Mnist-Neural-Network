@@ -104,7 +104,8 @@ Adding dropout regularization
 
 Using Convolutional Neural Networks (CNNs)
 
-Try visualizing sample images from the dataset
+Try visualizing sample images from the dataset and text
+
 
 📝 License
 
